@@ -1,0 +1,15 @@
+################################
+## written on 30th of May, 2023
+################################
+
+
+1) vscode + git vcs control
+https://www.youtube.com/watch?v=M_0vwGlz5EM&list=PLuHgQVnccGMAQvSVKdXFiOo51HUD8iQQm
+
+
+2) vscode + github 
+https://www.youtube.com/watch?v=vI8FFvQge2w
+
+
+3) cli command
+$ git log --all --oneline --graph
